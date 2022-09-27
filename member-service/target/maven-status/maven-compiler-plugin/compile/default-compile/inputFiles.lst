@@ -1,0 +1,16 @@
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/controller/MemberRestController.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/domain/Address.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/service/impl/MemberService.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/security/JwtUtil.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/App.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/models/AuthenticateRequest.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/security/MyUserDetailService.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/dao/MemberDao.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/LogAspect.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/filters/JwtRequestFilter.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/controller/SecurityController.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/domain/Member.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/security/SecurityConfigure.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/models/AuthenticateResponse.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/service/IMemberService.java
+/Users/nyta/Desktop/library-microservices-parent/member-service/src/main/java/edu/mum/cs544/exception/NotFoundException.java
